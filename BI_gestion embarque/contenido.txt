@@ -1,0 +1,24 @@
+CONTENIDO GENERAL:
+I.	Registro de despachos
+
+Datos clave a registrar. Segmentación de despachos. Productividad: variables y cálculo.
+
+II.	Carga de datos
+
+Carga, formato y configuración del origen de datos.
+
+III.	Modelado de datos
+
+Modelado “tipo estrella”. Creación de tabla de calendario. Relacionamiento.
+
+IV.	Dashboard de despachos y transporte
+
+Frecuencia de despachos. Distribución por geografía. Análisis de uso de flota. 
+
+V.	Dashboard de productividad de transporte
+
+Cálculo de eficiencia con funciones DAX. Análisis diario. Productividad de flota. 
+
+VI.	Dashboard de KPIs de transporte
+
+Visualización gráfica de metas y cumplimiento: productividad e indicadores para su mejora.
